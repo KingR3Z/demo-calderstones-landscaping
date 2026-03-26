@@ -45,12 +45,12 @@ export const client = {
     { before: "/images/drive-before.jpg", after: "/images/drive-after.jpg", label: "Driveway" },
   ] as { before: string; after: string; label: string }[],
   reviews: [
-    { name: "Sarah M.", rating: 5, text: "Absolutely fantastic work. Professional from start to finish. Couldn't recommend more highly.", date: "2 weeks ago", badge: "Local Guide" },
-    { name: "James T.", rating: 5, text: "Brilliant job. They understood exactly what we wanted and delivered beyond expectations.", date: "1 month ago" },
-    { name: "Karen D.", rating: 5, text: "Best in the area. Transformed our garden into something we're genuinely proud of.", date: "3 weeks ago", badge: "Local Guide" },
-    { name: "David R.", rating: 5, text: "From consultation to completion, everything was handled professionally. Fair pricing throughout.", date: "2 months ago" },
-    { name: "Emma W.", rating: 5, text: "Beautiful results. They delivered exactly what we asked for with a stunning finish.", date: "1 month ago" },
-    { name: "Paul H.", rating: 5, text: "Outstanding quality. Neighbours keep stopping to compliment the work. Highly recommended.", date: "3 weeks ago", badge: "Local Guide" },
+    { name: "Slogoman jr", rating: 5, text: "What a transformation to my garden. Completed on time and in full. Many thanks to Mike for his care, passion, flexibility and patience!!  We are delighted to have a wonderful space to enjoy as a family.  I cannot thank you enough and would highly recommend you and your great team. Thank you!!!! Sharon", date: "a week ago" },
+    { name: "Mark Cummings", rating: 5, text: "I’ve known Mike and the team for over 15 years. They maintain the grounds of the estate in my previous employment. They are very knowledgeable, professional and brilliant at what they do. I recently used there services as I needed a mini digger & operator. Mike was there on time with no fuss and got the job done. I would highly recommend them. Brilliant company!", date: "a month ago" },
+    { name: "Eleri Jones", rating: 5, text: "Absolutely fantastic service from Mike and the team - I would recommend their services without hesitation. They did a great job helping to clear snow & ice at short notice, and were polite, professional and friendly throughout - they couldn't do enough to help. Thank you Calderstones!", date: "2 months ago" },
+    { name: "Cath Broderick", rating: 5, text: "Mike and the team were brilliant - created a lovely Laurel hedge making the area more sheltered and private and replanted in the front garden. Also did a superb job on a Venetian trellis on our wall at the rear of the house. We would not hesitate to recommend the Calderstones Landscaping guys", date: "3 months ago" },
+    { name: "Carole", rating: 5, text: "Mike and the team 10/10. Superb fencing job, thank you so much keeping to time and leaving our gardens so tidy.", date: "4 months ago" },
+    { name: "Leanne Jones", rating: 5, text: "Excellent work by Mike and team. Couldn’t be happier with the finished result. Would highly recommend!", date: "4 months ago" },
   ] as { name: string; rating: number; text: string; date: string; badge?: string }[],
   seo: {
     title: "Calderstones Landscaping | Professional Landscaper in Liverpool",
